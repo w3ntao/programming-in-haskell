@@ -1,0 +1,1 @@
+[Programming in Haskell (2nd Edition)](http://www.cs.nott.ac.uk/~pszgmh/pih.html).
