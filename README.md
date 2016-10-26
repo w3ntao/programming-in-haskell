@@ -5,3 +5,6 @@
 
 ###Chapter 2
 [2.7.5](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-2/Exercise_2_7_5.hs)
+
+###Chapter 3
+[3.11.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-3/Exercise_3_11_2.hs)
