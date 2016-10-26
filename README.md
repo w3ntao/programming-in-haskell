@@ -8,3 +8,7 @@
 
 ###Chapter 3
 [3.11.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-3/Exercise_3_11_2.hs)
+
+###Chapter 4
+[4.7.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_1.hs) [4.7.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_2.hs) [4.7.3](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_3.hs) [4.7.4](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_4.hs) [4.7.5](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_5.hs) [4.7.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_6.hs) [4.7.7](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_7.hs) [4.7.8](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-4/Exercise_4_7_8.hs)
+
