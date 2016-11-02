@@ -23,3 +23,6 @@
 
 ###Chapter 8
 [8.9.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_1.hs) [8.9.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_2.hs) [8.9.3](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_3.hs) [8.9.4](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_4.hs) [8.9.5](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_5.hs) [8.9.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_6.hs) [8.9.8](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_8.hs) [8.9.9](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-8/Exercise_8_9_9.hs)
+
+###Chapter 9
+[9.11.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-9/Exercise_9_11_1.hs) [9.11.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-9/Exercise_9_11_2.hs) [9.11.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-9/Exercise_9_11_6.hs)
