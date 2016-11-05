@@ -26,3 +26,6 @@
 
 ###Chapter 9
 [9.11.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-9/Exercise_9_11_1.hs) [9.11.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-9/Exercise_9_11_2.hs) [9.11.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-9/Exercise_9_11_6.hs)
+
+###Chapter 10
+[10.10.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-10/Exercise_10_10_1.hs) [10.10.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-10/Exercise_10_10_2.hs) [10.10.3](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-10/Exercise_10_10_3.hs) [10.10.4](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-10/Exercise_10_10_4.hs) [10.10.5](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-10/Exercise_10_10_5.hs) [10.10.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-10/Exercise_10_10_6.hs)
