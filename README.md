@@ -35,3 +35,6 @@
 
 ###Chapter 12
 [12.5.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_1.hs) [12.5.2](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_2.hs) [12.5.3](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_3.hs) [12.5.4](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_4.hs) [12.5.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_6.hs) [12.5.7](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_7.hs) [12.5.8](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-12/Exercise_12_5_8.hs)
+
+###Chapter 13
+[13.11.1](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-13/Exercise_13_11_1.hs) [13.11.6](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-13/Exercise_13_11_6.hs) [13.11.7](https://github.com/WentaoZero/Programming-in-Haskell/blob/master/Chapter-13/Exercise_13_11_7.hs)
