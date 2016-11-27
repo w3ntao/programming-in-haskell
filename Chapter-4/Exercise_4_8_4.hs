@@ -1,5 +1,5 @@
 {-# OPTIONS_GHC -Wall #-}
-module Exercise_4_7_4 where
+module Exercise_4_8_4 where
 
 import Prelude hiding ((||))
 

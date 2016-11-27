@@ -1,9 +1,11 @@
 {-# OPTIONS_GHC -Wall #-}
-module Exercise_4_7_6 where
+module Exercise_4_8_5 where
 
 import Prelude hiding ((&&))
 
 (&&) :: Bool -> Bool -> Bool
 x && y = if x
-             then y
+             then if y
+                 then True
+                 else False
              else False

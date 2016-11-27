@@ -1,5 +1,5 @@
 {-# OPTIONS_GHC -Wall #-}
-module Exercise_4_7_3 where
+module Exercise_4_8_3 where
 
 safetail0 :: [a] -> [a]
 safetail0 xs = if null xs
